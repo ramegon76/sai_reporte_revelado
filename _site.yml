@@ -1,0 +1,15 @@
+name: Dashboard
+output_dir: '.'
+navbar:
+  title: Reporte de Avances en el Revelado <br> de la Arquitectura de Datos
+  left:
+  - text: "Dashboard"
+    href: index.html
+output:
+  html_document:
+    toc: no
+    toc_float: no
+    theme: flatly
+    highlight: kate
+    lib_dir: site_libs
+    self_contained: no
