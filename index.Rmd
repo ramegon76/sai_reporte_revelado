@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE,  fig.align="center", out.extra = 'style="dis
 <br/>
 
 
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7117c551-ee3a-4542-b9d0-4373dc6b31cd&autoAuth=true&ctid=ca8f09f5-335e-4fc5-8041-f5b472a02eef&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/view?r=eyJrIjoiZjg5MWVlZDYtYTIwMi00MGVmLTlkZTAtMmY3ZTE5YWFkNzkxIiwidCI6ImNhOGYwOWY1LTMzNWUtNGZjNS04MDQxLWY1YjQ3MmEwMmVlZiIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 
 </div>
